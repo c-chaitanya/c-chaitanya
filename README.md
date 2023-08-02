@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C Chaitanya</h1>
-<h3 align="center">I'm a passionate Data Scientist with over 2 years of experience from India</h3>
+<h3 align="center">I'm a passionate Data Scientist with over 6 years of experience from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-chaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="c-chaitanya" /> </p>
 
